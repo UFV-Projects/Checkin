@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Checkin</string>
+    <string name="local_name">Local Name:</string>
+    <string name="local_category">Local Category:</string>
+    <string name="global_position">Global Position</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Logitude:</string>
+    <string name="check_in">Check-in</string>
+</resources>

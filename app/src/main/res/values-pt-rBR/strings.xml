@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Checkin</string>
+    <string name="local_name">Nome do Local:</string>
+    <string name="local_category">Categoria do Local:</string>
+    <string name="global_position">Posicionamento Global</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Logitude:</string>
+    <string name="check_in">Check-in</string>
+</resources>
