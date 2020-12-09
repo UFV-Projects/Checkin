@@ -10,7 +10,7 @@ public final class BancoDadosSingleton {
 
 	private SQLiteDatabase db;
 	private static BancoDadosSingleton INSTANCE;
-	private final String NOME_BANCO = "bd_singleton";
+	private final String NOME_BANCO = "exemplo_bd_singleton";
 	private final String[] SCRIPT_DATABASE_CREATE = new String[] {
 			"CREATE TABLE Checkin (" +
 					"Local TEXT PRIMARY KEY," +
